@@ -1,6 +1,6 @@
 # 🔐 Password Generator
 
-A simple web app that generates strong random passwords using JavaScript.
+A  web app that generates strong random passwords using JavaScript.
 
 ## 🚀 Features
 - Generates secure random passwords
@@ -14,7 +14,7 @@ A simple web app that generates strong random passwords using JavaScript.
 - JavaScript
 - 
 ## 🔗 Live Demo
-
+https://harshanrepo.github.io/password-generator-js/
 
 ## 📂 How to Use
 1. Open the app in browser
