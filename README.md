@@ -12,6 +12,7 @@ A  web app that generates strong random passwords using JavaScript.
 - HTML
 - CSS
 - JavaScript
+  
 ## 🔗 Live Demo
 https://harshanrepo.github.io/password-generator-js/
 
@@ -25,5 +26,5 @@ https://harshanrepo.github.io/password-generator-js/
 - Length slider
 - Copy button
 
----
+  
 
